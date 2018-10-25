@@ -1,0 +1,5 @@
+site/
+*.pd
+*.pdf
+.idea
+_build
